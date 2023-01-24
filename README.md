@@ -1,2 +1,2 @@
 # Cafe-Menu
-A project in FreeCodeCamp to a Cafe menu using HTML and CSS.
+A FreeCodeCamp project to a Cafe menu using HTML and CSS.
